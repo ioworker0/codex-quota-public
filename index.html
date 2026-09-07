@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Codex Quota</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <h1>Codex Quota</h1>
+          <p id="last-updated">No samples yet</p>
+        </div>
+        <button id="refresh" type="button">Refresh</button>
+      </header>
+
+      <section class="summary" aria-label="Current quota">
+        <article class="metric">
+          <div class="metric-label">5h left</div>
+          <div class="metric-value" id="primary-value">--</div>
+          <div class="meter"><span id="primary-meter"></span></div>
+          <div class="metric-meta" id="primary-reset">reset --</div>
+        </article>
+
+        <article class="metric">
+          <div class="metric-label">Weekly left</div>
+          <div class="metric-value" id="secondary-value">--</div>
+          <div class="meter"><span id="secondary-meter"></span></div>
+          <div class="metric-meta" id="secondary-reset">reset --</div>
+        </article>
+      </section>
+
+      <section class="chart-grid" aria-label="5h trends">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>5h Trend</h2>
+            <span>Last 24h</span>
+          </div>
+          <div id="primary-chart" class="chart" role="img" aria-label="5h remaining trend"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>5h Trend</h2>
+            <span>Last 7d</span>
+          </div>
+          <div id="primary-week-chart" class="chart" role="img" aria-label="5h remaining trend over 7 days"></div>
+        </article>
+      </section>
+
+      <section class="chart-grid" aria-label="Weekly trends">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Weekly Trend</h2>
+            <span>Last 7d</span>
+          </div>
+          <div id="secondary-week-chart" class="chart" role="img" aria-label="Weekly remaining trend over 7 days"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Weekly Trend</h2>
+            <span>Last 30d</span>
+          </div>
+          <div id="secondary-chart" class="chart" role="img" aria-label="Weekly remaining trend"></div>
+        </article>
+      </section>
+    </main>
+    <script src="https://cdn.bootcdn.net/ajax/libs/echarts/5.6.0/echarts.min.js"></script>
+    <script>window.CODEX_QUOTA_DATA_BASE = "data";</script>
+    <script src="app.js"></script>
+  </body>
+</html>

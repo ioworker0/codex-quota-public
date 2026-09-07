@@ -1,0 +1,2365 @@
+{
+  "generated_at": 1788761650,
+  "primary_24h": [],
+  "primary_7d": [],
+  "secondary_30d": [
+    {
+      "sampled_at": 1786172388,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1786175999,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1786179549,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1786183166,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1786186789,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1786190224,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1786190437,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1786195912,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1786201160,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786204780,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1786208345,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1786209699,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1786214653,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1786219816,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1786231344,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1786237389,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1786241140,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1786251539,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1786252302,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1786258768,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1786262385,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1786265967,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1786269573,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1786273161,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1786275258,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1786282578,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1786287571,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1786291138,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786294323,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786296237,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786300990,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786305398,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786307311,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786312064,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786315740,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786318578,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786322052,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786327149,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786330730,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1786334361,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1786337992,
+      "value": 87.0
+    },
+    {
+      "sampled_at": 1786341565,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1786344444,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786347414,
+      "value": 77.0
+    },
+    {
+      "sampled_at": 1786352428,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1786357690,
+      "value": 71.0
+    },
+    {
+      "sampled_at": 1786362813,
+      "value": 68.0
+    },
+    {
+      "sampled_at": 1786365305,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1786373992,
+      "value": 65.0
+    },
+    {
+      "sampled_at": 1786377598,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1786381154,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1786382281,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1786389602,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1786394679,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1786402687,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1786413344,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1786417034,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1786420718,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1786423558,
+      "value": 88.0
+    },
+    {
+      "sampled_at": 1786427959,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1786431443,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786435051,
+      "value": 74.0
+    },
+    {
+      "sampled_at": 1786438750,
+      "value": 68.0
+    },
+    {
+      "sampled_at": 1786442386,
+      "value": 65.0
+    },
+    {
+      "sampled_at": 1786445958,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1786449589,
+      "value": 56.0
+    },
+    {
+      "sampled_at": 1786453159,
+      "value": 53.0
+    },
+    {
+      "sampled_at": 1786456740,
+      "value": 50.0
+    },
+    {
+      "sampled_at": 1786459765,
+      "value": 47.0
+    },
+    {
+      "sampled_at": 1786463998,
+      "value": 45.0
+    },
+    {
+      "sampled_at": 1786467558,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1786469016,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1786474123,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1786478328,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1786482452,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1786487527,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1786499973,
+      "value": 43.0
+    },
+    {
+      "sampled_at": 1786503548,
+      "value": 40.0
+    },
+    {
+      "sampled_at": 1786507188,
+      "value": 37.0
+    },
+    {
+      "sampled_at": 1786510759,
+      "value": 34.0
+    },
+    {
+      "sampled_at": 1786512239,
+      "value": 33.0
+    },
+    {
+      "sampled_at": 1786515950,
+      "value": 31.0
+    },
+    {
+      "sampled_at": 1786520947,
+      "value": 28.0
+    },
+    {
+      "sampled_at": 1786525113,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1786532171,
+      "value": 25.0
+    },
+    {
+      "sampled_at": 1786535242,
+      "value": 24.0
+    },
+    {
+      "sampled_at": 1786539401,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1786591967,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1786594148,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1786600786,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1786604370,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1786607955,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1786611541,
+      "value": 88.0
+    },
+    {
+      "sampled_at": 1786615188,
+      "value": 86.0
+    },
+    {
+      "sampled_at": 1786618768,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1786622346,
+      "value": 82.0
+    },
+    {
+      "sampled_at": 1786625987,
+      "value": 81.0
+    },
+    {
+      "sampled_at": 1786627016,
+      "value": 81.0
+    },
+    {
+      "sampled_at": 1786633195,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786634593,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786639254,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786652004,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786657190,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786663631,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786672790,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1786676355,
+      "value": 78.0
+    },
+    {
+      "sampled_at": 1786679993,
+      "value": 75.0
+    },
+    {
+      "sampled_at": 1786683565,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1786687140,
+      "value": 72.0
+    },
+    {
+      "sampled_at": 1786690782,
+      "value": 69.0
+    },
+    {
+      "sampled_at": 1786694364,
+      "value": 68.0
+    },
+    {
+      "sampled_at": 1786697954,
+      "value": 67.0
+    },
+    {
+      "sampled_at": 1786701158,
+      "value": 65.0
+    },
+    {
+      "sampled_at": 1786719593,
+      "value": 65.0
+    },
+    {
+      "sampled_at": 1786723165,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1786726340,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1786734622,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1786756036,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1786760659,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1786766359,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1786769987,
+      "value": 62.0
+    },
+    {
+      "sampled_at": 1786773544,
+      "value": 62.0
+    },
+    {
+      "sampled_at": 1786774913,
+      "value": 62.0
+    },
+    {
+      "sampled_at": 1786786725,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1786798763,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1786802352,
+      "value": 60.0
+    },
+    {
+      "sampled_at": 1786805949,
+      "value": 60.0
+    },
+    {
+      "sampled_at": 1786809540,
+      "value": 60.0
+    },
+    {
+      "sampled_at": 1786813188,
+      "value": 60.0
+    },
+    {
+      "sampled_at": 1786816770,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1786817944,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1786825313,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1786852788,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1786856376,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1786859965,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786863557,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786867159,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786870752,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786874340,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786877995,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786881585,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786885174,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786888761,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1786892350,
+      "value": 57.0
+    },
+    {
+      "sampled_at": 1786895950,
+      "value": 57.0
+    },
+    {
+      "sampled_at": 1786898909,
+      "value": 57.0
+    },
+    {
+      "sampled_at": 1786902824,
+      "value": 57.0
+    },
+    {
+      "sampled_at": 1786931984,
+      "value": 57.0
+    },
+    {
+      "sampled_at": 1786935560,
+      "value": 56.0
+    },
+    {
+      "sampled_at": 1786939197,
+      "value": 56.0
+    },
+    {
+      "sampled_at": 1786942774,
+      "value": 55.0
+    },
+    {
+      "sampled_at": 1786946350,
+      "value": 55.0
+    },
+    {
+      "sampled_at": 1786949994,
+      "value": 55.0
+    },
+    {
+      "sampled_at": 1786953508,
+      "value": 54.0
+    },
+    {
+      "sampled_at": 1786957149,
+      "value": 54.0
+    },
+    {
+      "sampled_at": 1786958200,
+      "value": 54.0
+    },
+    {
+      "sampled_at": 1787018349,
+      "value": 54.0
+    },
+    {
+      "sampled_at": 1787021883,
+      "value": 53.0
+    },
+    {
+      "sampled_at": 1787025553,
+      "value": 53.0
+    },
+    {
+      "sampled_at": 1787029149,
+      "value": 52.0
+    },
+    {
+      "sampled_at": 1787032746,
+      "value": 52.0
+    },
+    {
+      "sampled_at": 1787036339,
+      "value": 52.0
+    },
+    {
+      "sampled_at": 1787039992,
+      "value": 52.0
+    },
+    {
+      "sampled_at": 1787043580,
+      "value": 52.0
+    },
+    {
+      "sampled_at": 1787045004,
+      "value": 51.0
+    },
+    {
+      "sampled_at": 1787054396,
+      "value": 51.0
+    },
+    {
+      "sampled_at": 1787057985,
+      "value": 50.0
+    },
+    {
+      "sampled_at": 1787061573,
+      "value": 50.0
+    },
+    {
+      "sampled_at": 1787065160,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787068749,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787072399,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787075989,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787079581,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787083171,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787086758,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787090393,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787093297,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787096545,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787104783,
+      "value": 49.0
+    },
+    {
+      "sampled_at": 1787108381,
+      "value": 48.0
+    },
+    {
+      "sampled_at": 1787111982,
+      "value": 47.0
+    },
+    {
+      "sampled_at": 1787115568,
+      "value": 46.0
+    },
+    {
+      "sampled_at": 1787119152,
+      "value": 46.0
+    },
+    {
+      "sampled_at": 1787122745,
+      "value": 45.0
+    },
+    {
+      "sampled_at": 1787126398,
+      "value": 45.0
+    },
+    {
+      "sampled_at": 1787129972,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1787133560,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1787135106,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1787144390,
+      "value": 43.0
+    },
+    {
+      "sampled_at": 1787147976,
+      "value": 43.0
+    },
+    {
+      "sampled_at": 1787151563,
+      "value": 43.0
+    },
+    {
+      "sampled_at": 1787155148,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1787157745,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1787183295,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1787191138,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1787194789,
+      "value": 41.0
+    },
+    {
+      "sampled_at": 1787198380,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1787201972,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1787205566,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1787207674,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1787212699,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1787230750,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1787234381,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1787234998,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1787241589,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1787245189,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787246611,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787261200,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787268515,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787327893,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787331568,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787353451,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787414329,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787426249,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787442654,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787536774,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1787540343,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1787543973,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1787547544,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1787551178,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1787554750,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1787558382,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1787561958,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787565593,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787569162,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1787572789,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1787576356,
+      "value": 87.0
+    },
+    {
+      "sampled_at": 1787577579,
+      "value": 87.0
+    },
+    {
+      "sampled_at": 1787587168,
+      "value": 85.0
+    },
+    {
+      "sampled_at": 1787590750,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787594390,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787597967,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787601546,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787605187,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787608769,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787612344,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787615988,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787618827,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787623199,
+      "value": 83.0
+    },
+    {
+      "sampled_at": 1787626771,
+      "value": 81.0
+    },
+    {
+      "sampled_at": 1787630356,
+      "value": 79.0
+    },
+    {
+      "sampled_at": 1787633987,
+      "value": 76.0
+    },
+    {
+      "sampled_at": 1787637560,
+      "value": 76.0
+    },
+    {
+      "sampled_at": 1787641191,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1787644768,
+      "value": 69.0
+    },
+    {
+      "sampled_at": 1787648346,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1787651978,
+      "value": 65.0
+    },
+    {
+      "sampled_at": 1787655546,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1787659176,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1787662747,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1787666381,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1787667862,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1787709314,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1787713175,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1787716750,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1787720380,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1787723950,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1787727540,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1787731174,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1787734762,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1787738396,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787741969,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1787745540,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1787749170,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1787752738,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1787755693,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1787795963,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1787799513,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1787803149,
+      "value": 88.0
+    },
+    {
+      "sampled_at": 1787806781,
+      "value": 88.0
+    },
+    {
+      "sampled_at": 1787810390,
+      "value": 87.0
+    },
+    {
+      "sampled_at": 1787813963,
+      "value": 87.0
+    },
+    {
+      "sampled_at": 1787817304,
+      "value": 86.0
+    },
+    {
+      "sampled_at": 1787821161,
+      "value": 85.0
+    },
+    {
+      "sampled_at": 1787824767,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1787828399,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1787831961,
+      "value": 82.0
+    },
+    {
+      "sampled_at": 1787833995,
+      "value": 81.0
+    },
+    {
+      "sampled_at": 1787842798,
+      "value": 79.0
+    },
+    {
+      "sampled_at": 1787845543,
+      "value": 78.0
+    },
+    {
+      "sampled_at": 1787873935,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1787885940,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1787889592,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1787893168,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1787896756,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1787900391,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1787903985,
+      "value": 88.0
+    },
+    {
+      "sampled_at": 1787907564,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1787910582,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1787918361,
+      "value": 80.0
+    },
+    {
+      "sampled_at": 1787921940,
+      "value": 78.0
+    },
+    {
+      "sampled_at": 1787925595,
+      "value": 76.0
+    },
+    {
+      "sampled_at": 1787929185,
+      "value": 75.0
+    },
+    {
+      "sampled_at": 1787932778,
+      "value": 74.0
+    },
+    {
+      "sampled_at": 1787934467,
+      "value": 74.0
+    },
+    {
+      "sampled_at": 1787975940,
+      "value": 74.0
+    },
+    {
+      "sampled_at": 1787979573,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1787983153,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1787983399,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1787987252,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1787992608,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788002650,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788008392,
+      "value": 72.0
+    },
+    {
+      "sampled_at": 1788011974,
+      "value": 71.0
+    },
+    {
+      "sampled_at": 1788015560,
+      "value": 70.0
+    },
+    {
+      "sampled_at": 1788019141,
+      "value": 69.0
+    },
+    {
+      "sampled_at": 1788022787,
+      "value": 69.0
+    },
+    {
+      "sampled_at": 1788024461,
+      "value": 69.0
+    },
+    {
+      "sampled_at": 1788031748,
+      "value": 69.0
+    },
+    {
+      "sampled_at": 1788039077,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1788046401,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1788050062,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1788058769,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1788062365,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1788065946,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1788069593,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1788073174,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1788076205,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1788101161,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1788145171,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1788148745,
+      "value": 100.0
+    },
+    {
+      "sampled_at": 1788152389,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1788155962,
+      "value": 99.0
+    },
+    {
+      "sampled_at": 1788159594,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1788163176,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1788166774,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1788170362,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1788173995,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1788177505,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1788181098,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1788184273,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1788188387,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1788191961,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1788194827,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1788227948,
+      "value": 88.0
+    },
+    {
+      "sampled_at": 1788231498,
+      "value": 85.0
+    },
+    {
+      "sampled_at": 1788235163,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1788238798,
+      "value": 82.0
+    },
+    {
+      "sampled_at": 1788242369,
+      "value": 81.0
+    },
+    {
+      "sampled_at": 1788245980,
+      "value": 78.0
+    },
+    {
+      "sampled_at": 1788249496,
+      "value": 76.0
+    },
+    {
+      "sampled_at": 1788253194,
+      "value": 75.0
+    },
+    {
+      "sampled_at": 1788256760,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788260354,
+      "value": 72.0
+    },
+    {
+      "sampled_at": 1788263396,
+      "value": 70.0
+    },
+    {
+      "sampled_at": 1788267554,
+      "value": 68.0
+    },
+    {
+      "sampled_at": 1788271188,
+      "value": 67.0
+    },
+    {
+      "sampled_at": 1788274705,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788278374,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788281626,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788299875,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788314227,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788317945,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1788321540,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1788325147,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1788328709,
+      "value": 60.0
+    },
+    {
+      "sampled_at": 1788332300,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1788335958,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1788339592,
+      "value": 57.0
+    },
+    {
+      "sampled_at": 1788343167,
+      "value": 56.0
+    },
+    {
+      "sampled_at": 1788346799,
+      "value": 55.0
+    },
+    {
+      "sampled_at": 1788350371,
+      "value": 54.0
+    },
+    {
+      "sampled_at": 1788353942,
+      "value": 50.0
+    },
+    {
+      "sampled_at": 1788357577,
+      "value": 46.0
+    },
+    {
+      "sampled_at": 1788361148,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1788364758,
+      "value": 43.0
+    },
+    {
+      "sampled_at": 1788368352,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788371991,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788375564,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788379194,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788382764,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788386394,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788389963,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788393594,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788397163,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788400797,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788404373,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788407965,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788411539,
+      "value": 41.0
+    },
+    {
+      "sampled_at": 1788415178,
+      "value": 37.0
+    },
+    {
+      "sampled_at": 1788418753,
+      "value": 35.0
+    },
+    {
+      "sampled_at": 1788422346,
+      "value": 33.0
+    },
+    {
+      "sampled_at": 1788425988,
+      "value": 32.0
+    },
+    {
+      "sampled_at": 1788429564,
+      "value": 30.0
+    },
+    {
+      "sampled_at": 1788433197,
+      "value": 28.0
+    },
+    {
+      "sampled_at": 1788436768,
+      "value": 27.0
+    },
+    {
+      "sampled_at": 1788440339,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788443979,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788446571,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788451178,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788454788,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788458372,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788461945,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788465586,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788469166,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788472741,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788476382,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788479957,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788483596,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788485615,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788487502,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788494386,
+      "value": 25.0
+    },
+    {
+      "sampled_at": 1788497990,
+      "value": 25.0
+    },
+    {
+      "sampled_at": 1788501314,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788504934,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788508655,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788512379,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788515750,
+      "value": 21.0
+    },
+    {
+      "sampled_at": 1788519575,
+      "value": 18.0
+    },
+    {
+      "sampled_at": 1788522948,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1788526753,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1788530387,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1788533967,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1788537571,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1788541154,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1788544799,
+      "value": 86.0
+    },
+    {
+      "sampled_at": 1788548375,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1788551954,
+      "value": 82.0
+    },
+    {
+      "sampled_at": 1788555592,
+      "value": 79.0
+    },
+    {
+      "sampled_at": 1788559168,
+      "value": 77.0
+    },
+    {
+      "sampled_at": 1788562742,
+      "value": 74.0
+    },
+    {
+      "sampled_at": 1788566384,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788569956,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788573594,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788577171,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788580745,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788584385,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788587968,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788591548,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788595192,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788598771,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788602347,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788605988,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788609566,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788613155,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788616798,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788620383,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788623990,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788627575,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788631156,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788634741,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788638382,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788641961,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788645543,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788649186,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788652767,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788656348,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788659989,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788663571,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788667153,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788670672,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788748178,
+      "value": 72.0
+    },
+    {
+      "sampled_at": 1788753590,
+      "value": 67.0
+    },
+    {
+      "sampled_at": 1788757168,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1788760757,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1788761621,
+      "value": 59.0
+    }
+  ],
+  "secondary_7d": [
+    {
+      "sampled_at": 1788159594,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1788163176,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1788166774,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1788170362,
+      "value": 96.0
+    },
+    {
+      "sampled_at": 1788173995,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1788177505,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1788181098,
+      "value": 94.0
+    },
+    {
+      "sampled_at": 1788184273,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1788188387,
+      "value": 92.0
+    },
+    {
+      "sampled_at": 1788191961,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1788194827,
+      "value": 90.0
+    },
+    {
+      "sampled_at": 1788227948,
+      "value": 88.0
+    },
+    {
+      "sampled_at": 1788231498,
+      "value": 85.0
+    },
+    {
+      "sampled_at": 1788235163,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1788238798,
+      "value": 82.0
+    },
+    {
+      "sampled_at": 1788242369,
+      "value": 81.0
+    },
+    {
+      "sampled_at": 1788245980,
+      "value": 78.0
+    },
+    {
+      "sampled_at": 1788249496,
+      "value": 76.0
+    },
+    {
+      "sampled_at": 1788253194,
+      "value": 75.0
+    },
+    {
+      "sampled_at": 1788256760,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788260354,
+      "value": 72.0
+    },
+    {
+      "sampled_at": 1788263396,
+      "value": 70.0
+    },
+    {
+      "sampled_at": 1788267554,
+      "value": 68.0
+    },
+    {
+      "sampled_at": 1788271188,
+      "value": 67.0
+    },
+    {
+      "sampled_at": 1788274705,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788278374,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788281626,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788299875,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788314227,
+      "value": 66.0
+    },
+    {
+      "sampled_at": 1788317945,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1788321540,
+      "value": 63.0
+    },
+    {
+      "sampled_at": 1788325147,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1788328709,
+      "value": 60.0
+    },
+    {
+      "sampled_at": 1788332300,
+      "value": 59.0
+    },
+    {
+      "sampled_at": 1788335958,
+      "value": 58.0
+    },
+    {
+      "sampled_at": 1788339592,
+      "value": 57.0
+    },
+    {
+      "sampled_at": 1788343167,
+      "value": 56.0
+    },
+    {
+      "sampled_at": 1788346799,
+      "value": 55.0
+    },
+    {
+      "sampled_at": 1788350371,
+      "value": 54.0
+    },
+    {
+      "sampled_at": 1788353942,
+      "value": 50.0
+    },
+    {
+      "sampled_at": 1788357577,
+      "value": 46.0
+    },
+    {
+      "sampled_at": 1788361148,
+      "value": 44.0
+    },
+    {
+      "sampled_at": 1788364758,
+      "value": 43.0
+    },
+    {
+      "sampled_at": 1788368352,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788371991,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788375564,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788379194,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788382764,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788386394,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788389963,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788393594,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788397163,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788400797,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788404373,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788407965,
+      "value": 42.0
+    },
+    {
+      "sampled_at": 1788411539,
+      "value": 41.0
+    },
+    {
+      "sampled_at": 1788415178,
+      "value": 37.0
+    },
+    {
+      "sampled_at": 1788418753,
+      "value": 35.0
+    },
+    {
+      "sampled_at": 1788422346,
+      "value": 33.0
+    },
+    {
+      "sampled_at": 1788425988,
+      "value": 32.0
+    },
+    {
+      "sampled_at": 1788429564,
+      "value": 30.0
+    },
+    {
+      "sampled_at": 1788433197,
+      "value": 28.0
+    },
+    {
+      "sampled_at": 1788436768,
+      "value": 27.0
+    },
+    {
+      "sampled_at": 1788440339,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788443979,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788446571,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788451178,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788454788,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788458372,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788461945,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788465586,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788469166,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788472741,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788476382,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788479957,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788483596,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788485615,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788487502,
+      "value": 26.0
+    },
+    {
+      "sampled_at": 1788494386,
+      "value": 25.0
+    },
+    {
+      "sampled_at": 1788497990,
+      "value": 25.0
+    },
+    {
+      "sampled_at": 1788501314,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788504934,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788508655,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788512379,
+      "value": 23.0
+    },
+    {
+      "sampled_at": 1788515750,
+      "value": 21.0
+    },
+    {
+      "sampled_at": 1788519575,
+      "value": 18.0
+    },
+    {
+      "sampled_at": 1788522948,
+      "value": 98.0
+    },
+    {
+      "sampled_at": 1788526753,
+      "value": 97.0
+    },
+    {
+      "sampled_at": 1788530387,
+      "value": 95.0
+    },
+    {
+      "sampled_at": 1788533967,
+      "value": 93.0
+    },
+    {
+      "sampled_at": 1788537571,
+      "value": 91.0
+    },
+    {
+      "sampled_at": 1788541154,
+      "value": 89.0
+    },
+    {
+      "sampled_at": 1788544799,
+      "value": 86.0
+    },
+    {
+      "sampled_at": 1788548375,
+      "value": 84.0
+    },
+    {
+      "sampled_at": 1788551954,
+      "value": 82.0
+    },
+    {
+      "sampled_at": 1788555592,
+      "value": 79.0
+    },
+    {
+      "sampled_at": 1788559168,
+      "value": 77.0
+    },
+    {
+      "sampled_at": 1788562742,
+      "value": 74.0
+    },
+    {
+      "sampled_at": 1788566384,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788569956,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788573594,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788577171,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788580745,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788584385,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788587968,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788591548,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788595192,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788598771,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788602347,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788605988,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788609566,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788613155,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788616798,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788620383,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788623990,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788627575,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788631156,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788634741,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788638382,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788641961,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788645543,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788649186,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788652767,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788656348,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788659989,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788663571,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788667153,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788670672,
+      "value": 73.0
+    },
+    {
+      "sampled_at": 1788748178,
+      "value": 72.0
+    },
+    {
+      "sampled_at": 1788753590,
+      "value": 67.0
+    },
+    {
+      "sampled_at": 1788757168,
+      "value": 64.0
+    },
+    {
+      "sampled_at": 1788760757,
+      "value": 61.0
+    },
+    {
+      "sampled_at": 1788761621,
+      "value": 59.0
+    }
+  ]
+}

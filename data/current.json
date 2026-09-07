@@ -1,0 +1,12 @@
+{
+  "generated_at": 1788761650,
+  "sample": {
+    "primary_remaining": null,
+    "primary_reset_at": null,
+    "primary_used": null,
+    "sampled_at": 1788761621,
+    "secondary_remaining": 59.0,
+    "secondary_reset_at": 1789124757,
+    "secondary_used": 41.0
+  }
+}
